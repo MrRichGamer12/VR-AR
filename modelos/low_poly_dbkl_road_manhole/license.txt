@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly DBKL Road Manhole
+* source:	https://sketchfab.com/3d-models/low-poly-dbkl-road-manhole-03a0257acaef42e786853d55ca9ebd66
+* author:	luardimensi (https://sketchfab.com/luardimensi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly DBKL Road Manhole" (https://sketchfab.com/3d-models/low-poly-dbkl-road-manhole-03a0257acaef42e786853d55ca9ebd66) by luardimensi (https://sketchfab.com/luardimensi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

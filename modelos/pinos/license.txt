@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pinos
+* source:	https://sketchfab.com/3d-models/pinos-d70dae13d0db43b88cb4fd5d1239c59c
+* author:	Henry_Frean (https://sketchfab.com/Henry_Frean)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pinos" (https://sketchfab.com/3d-models/pinos-d70dae13d0db43b88cb4fd5d1239c59c) by Henry_Frean (https://sketchfab.com/Henry_Frean) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
